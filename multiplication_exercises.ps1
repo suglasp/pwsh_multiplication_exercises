@@ -128,10 +128,10 @@ Function Main() {
         do {
             try {
                 [bool]$IsIntegerAnswer = $false
-                $numQuestions = Read-Host "Hoeveel oefeningen wil je doen?"
+                $numQuestions = Read-Host "How many exercises do you want to do?"
                 $IsIntegerAnswer = $true
             } catch {
-                Write-Warning "Fout antwoord ..."
+                Write-Warning "Wrong answer ..."
                 Start-Sleep -Seconds 2
             }
         } while ($IsIntegerAnswer -eq $false)
