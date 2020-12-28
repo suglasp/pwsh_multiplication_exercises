@@ -5,7 +5,7 @@
 # Change Date : 28/12/2020
 #
 # Powershell program for questioning Multiplication or Division practices.
-# Written for my children in the 3th class (~8-9 years old).
+# Written for my children in the 2nd and 3th class (~7-9 years old).
 # This is a translated version from Dutch to English.
 #
 #
